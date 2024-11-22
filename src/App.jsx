@@ -280,9 +280,9 @@ const App = () => {
     <div className="w-full md:w-3/4 mr-0 md:mr-4 bg-black">
       <div className="flex flex-col sm:flex-row justify-between items-center mb-6 space-y-4 sm:space-y-0">
         <img
-          src="https://static-00.iconduck.com/assets.00/computer-icon-1024x1024-q34qlzrf.png"
+          src="https://www.shutterstock.com/image-vector/computer-monitor-blank-display-screen-600nw-2476195103.jpg"
           alt=""
-          className="w-12 rounded-[50%] border-white"
+          className="w-12 h-12 rounded-[50%] border-white"
         />
         <input
           type="text"
